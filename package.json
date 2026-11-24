@@ -1,0 +1,13 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "script": {
+    "dev": "node --watch server.js"
+  }
+}
